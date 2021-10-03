@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 📫 How to reach me **https://discord.com/users/508257754339737601**
+- 📫 How to reach me **https://discord.com/users/535546517642149898**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
