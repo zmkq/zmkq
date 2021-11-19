@@ -23,6 +23,3 @@
 ![ZMK GitHub stats](https://github-readme-stats.vercel.app/api?username=zmkq&show_icons=true&theme=dracula)
 
 ---
-### Discord Account
-![Discord Account](https://discord.c99.nl/widget/theme-1/535546517642149898.png)
----
