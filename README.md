@@ -16,7 +16,11 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,git,bootstrap,tailwind,discord,express,react,vscode)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,git,bootstrap,tailwind,discord,express,react,vscode" />
+  </a>
+</p>
 
 
 ---
