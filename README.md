@@ -1,11 +1,31 @@
-<h1 align="center">Hi 👋, I'm MO</h1>
+<h1 align="center">mo</h1>
+
+<p align="center">
+  private by default. public when it matters.
+</p>
 
 ---
-🌴 someone who enjoys life, working out, and achieving well
 
+## what you see here
+- selected work only
+- open source contributions
+- things worth showing
 
 ---
 
-![ZMK GitHub stats](https://github-readme-stats.vercel.app/api?username=zmkq&show_icons=true&theme=rose)
+## what you don’t see
+- daily builds
+- systems in progress
+- most of my real work
 
+---
 
+## focus
+- backend systems
+- scalable apps
+- learning fast, building faster
+
+---
+
+## signal
+if it's here, it matters.
