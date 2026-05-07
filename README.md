@@ -1,31 +1,31 @@
-<h1 align="center">mo</h1>
 
-<p align="center">
-  private by default. public when it matters.
-</p>
 
----
+# hey, i’m Mohammad 👋
 
-## what you see here
-- selected work only
-- open source contributions
-- things worth showing
+I’m a self-taught full-stack developer with strong hands-on experience building real web applications using **TypeScript**, **React**, **Next.js**, and modern cloud tools.
+
+I’m currently a senior in high school, but I’ve spent years learning by building.. not just watching tutorials. I like solving real problems, shipping clean products, and using AI tools to move faster without losing quality.
 
 ---
 
-## what you don’t see
-- daily builds
-- systems in progress
-- most of my real work
+## what i build
+
+- full-stack web apps
+- clean, responsive interfaces
+- tools that automate workflows
+- product ideas turned into real apps
+- fast prototypes that can grow into serious projects
 
 ---
 
-## focus
-- backend systems
-- scalable apps
-- learning fast, building faster
+## my stack
 
----
-
-## signal
-if it's here, it matters.
+```ts
+const me = {
+  role: "Full-stack developer",
+  frontend: ["React", "Next.js", "Tailwind CSS"],
+  backend: ["Node.js", "APIs", "Supabase", "Firebase"],
+  languages: ["TypeScript", "JavaScript", "Python"],
+  tools: ["Git", "Vercel", "Cloudflare", "AI-assisted development"],
+  mindset: ["fast learner", "builder", "problem solver"]
+}
