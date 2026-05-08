@@ -1,6 +1,6 @@
 
 
-# hey, i’m Mohammad 👋
+# hey, i’m MO (aka the one and only) 👋
 
 I’m a self-taught full-stack developer with strong hands-on experience building real web applications using **TypeScript**, **React**, **Next.js**, and modern cloud tools.
 
